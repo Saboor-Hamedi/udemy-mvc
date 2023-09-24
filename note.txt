@@ -1,0 +1,6 @@
+# Controler class 
+You can call the $data on every single view/file
+
+on HomeController.php 
+this->view('home', ['Home' =>'welcome'])
+view.home: echo ['Home'];
